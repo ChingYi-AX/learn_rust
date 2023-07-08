@@ -4,11 +4,12 @@ Learn from ["The Rust Programming Language"](https://doc.rust-lang.org/stable/bo
 
 ## why Rust
 ## cheat list
-|commend line|description|
-|--|--|
-| `cargo build` |--|
-| `cargo update` |--|
-| `cargo run` |--|
+| commend line             | description                                |
+| ------------------------ | ------------------------------------------ |
+| `cargo new project_name` | generate a new project called project_name |
+| `cargo build`            | --                                         |
+| `cargo update`           | --                                         |
+| `cargo run`              | --                                         |
 
 # rust-analyzer
 - rust-analyzer is a library for semantic analysis of Rust code as it changes over time
