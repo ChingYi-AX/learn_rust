@@ -1,0 +1,8 @@
+## Data Type
+### scalar type
+- single value
+- integers ,floating-points, booleans, and characters
+
+### compound type
+- group mutiple values into one type
+- tuples and arrays
