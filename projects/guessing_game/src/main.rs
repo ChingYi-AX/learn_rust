@@ -1,4 +1,4 @@
-use std::io; // input output library (io comes from standard library), "stad::io" can be used to accpt user input
+use std::io; // input output library (io comes from standard library), "stad::io" can be used to accept user input
 use rand::Rng;
 use std::cmp::Ordering; // bring a type called std::cmp::Ordering from the standard library, the Ordering type is an enum and has the variants Less, Greater, and Equal
 

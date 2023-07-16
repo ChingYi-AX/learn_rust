@@ -1,0 +1,7 @@
+## Repetition with loops
+- chapter 3 (3.5)
+| type  | detail                                          |
+| ----- | ----------------------------------------------- |
+| loop  | retry an operation you know might fail          |
+| while | while the condition is true, the loop runs      |
+| for   | execute some code for each item in a collection |
